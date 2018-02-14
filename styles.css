@@ -1,0 +1,40 @@
+/* add your CSS here */
+.total{
+  margin-top: 20px;
+  border-color: rgb(196,192,192);
+  border-style: solid;
+  border-width: 0.5px;
+  padding: 5.6px;
+}
+
+.card{
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: rgb(196,192,192);
+  padding: 15px;
+  height: 630px;
+  width: 360px;
+  box-shadow: 0px 5px 15px 0px rgba(153,153,153,0.5);
+}
+
+.name{
+  display: inline-block;
+  border-spacing: 5px;
+}
+
+.fact{
+  font-style: italic;
+}
+
+.list{
+  list-style: none;
+  padding: 2px;
+}
+
+.a{
+  font-weight: bold;
+}
+
+.info{
+  border-spacing: 10px;
+}
